@@ -45,7 +45,10 @@ abstract class AbstractUniversity
     /**
      * This method returns number of total students registered on all subjects
      *
+     * 
+     *
      * @return int
+     * 
      */
     abstract public function getNumberOfStudents(): int;
 

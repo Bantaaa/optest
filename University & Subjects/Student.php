@@ -16,3 +16,18 @@ class Student
     // TODO Generate getters and setters for both arguments
     // TODO Generate constructor with both arguments.
 }
+echo phpinfo();
+class Formateur
+{
+    public string $name;
+    public string $formateurRole;
+
+
+
+}
+
+interface Apprenant
+{
+    public function makeSound();
+
+}
